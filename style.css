@@ -11,7 +11,7 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background: white;
+    background: linear-gradient(90deg, rgb(240, 175, 84) 2%, rgb(243, 183, 100) 7%, rgb(235, 165, 69) 33%,  rgb(240, 185, 107) 54%,  rgb(238, 175, 88) 55%,  rgb(235, 169, 77) 71%,  rgb(238, 173, 82) 82%,   rgb(240, 175, 84) 2%);
     background-position: center;   
 }
 
